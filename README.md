@@ -37,51 +37,56 @@ Segment Bazlı Ürün & Kampanya Önerileri
 1- VIP Müşteriler (Zengin & Çok Harcayan)
 
 Öne Çıkan İhtiyaç: Özel hissetmek, ayrıcalık
+
 Amaç: Sadakati korumak, yaşam boyu değeri artırmak
 
-Ürün Önerileri; Premium & sınırlı sayıda ürünler, Yüksek marjlı özel koleksiyonlar, Kişiye özel paketler
+Ürün Önerileri; Premium & sınırlı sayıda ürünler, yüksek marjlı özel koleksiyonlar, kişiye özel paketler
 
-Kampanya Önerileri; “Sadece Size Özel” indirimler, Erken erişim (new collection preview), VIP günleri / özel alışveriş saatleri
+Kampanya Önerileri; “Sadece Size Özel” indirimler, erken erişim (new collection preview), VIP günleri / özel alışveriş saatleri
 
 
 2- Zengin ama Az Harcayanlar
 
 Öne Çıkan İhtiyaç: Değer algısı, güven
+
 Amaç: Harcama sıklığını ve sepet tutarını artırmak
 
-Ürün Önerileri; Premium ürünlerin giriş seviyesi versiyonları, Deneme boyu / starter paketler, Kalite-vurgulu ürünler
+Ürün Önerileri; Premium ürünlerin giriş seviyesi versiyonları, deneme boyu / starter paketler, kalite-vurgulu ürünler
 
-Kampanya Önerileri; İlk alışverişe özel indirim, “Birlikte al – daha avantajlı” kampanyaları, Ücretsiz kargo / iade avantajı
+Kampanya Önerileri; İlk alışverişe özel indirim, “Birlikte al – daha avantajlı” kampanyaları, ücretsiz kargo / iade avantajı
 
 
 3- Genç & Hevesli Harcayıcılar
 
 Öne Çıkan İhtiyaç: Trend, hız, eğlence
+
 Amaç: Sadakat oluşturmak
 
-Ürün Önerileri; Trend ve hızlı tüketilen ürünler, Kampanya odaklı popüler ürünler, Sınırlı süreli koleksiyonlar
+Ürün Önerileri; Trend ve hızlı tüketilen ürünler, kampanya odaklı popüler ürünler, sınırlı süreli koleksiyonlar
 
-Kampanya Önerileri; Oyunlaştırılmış kampanyalar (puan, rozet, çekiliş), Sosyal medya entegrasyonlu indirimler, Mobil uygulama özel fırsatları
+Kampanya Önerileri; Oyunlaştırılmış kampanyalar (puan, rozet, çekiliş), sosyal medya entegrasyonlu indirimler, mobil uygulama özel fırsatları
 
 
 4- Orta Gelir – Düşük Harcama
 
 Öne Çıkan İhtiyaç: Fiyat avantajı
+
 Amaç: Sepet büyüklüğünü artırmak
 
-Ürün Önerileri; Paket & set ürünler, Çok satan ekonomik ürünler, Alternatif (muadil) ürünler
+Ürün Önerileri; Paket & set ürünler, çok satan ekonomik ürünler, alternatif ürünler
 
-Kampanya Önerileri; “2 al 1 öde” / “3 al %20 indirim”, Sepet tutarı bazlı indirimler, Dönemsel kampanyalar (maaş günü vb.)
+Kampanya Önerileri; “2 al 1 öde” / “3 al %20 indirim”, sepet tutarı bazlı indirimler, dönemsel kampanyalar (maaş günü vb.)
 
 
 5- Düşük Değerli Müşteriler
 
 Öne Çıkan İhtiyaç: Ulaşılabilir fiyat
+
 Amaç: Maliyetleri kontrol altında tutmak
 
-Ürün Önerileri; İndirimli / outlet ürünler, Stok eritme ürünleri, Temel ihtiyaç ürünleri
+Ürün Önerileri; İndirimli / outlet ürünler, stok eritme ürünleri, temel ihtiyaç ürünleri
 
-Kampanya Önerileri; SMS / e-posta kampanyaları, Toplu indirim günleri, Otomatik kampanya kurguları
+Kampanya Önerileri; SMS / e-posta kampanyaları, toplu indirim günleri, otomatik kampanya kurguları
 
 
 
